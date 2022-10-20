@@ -1,0 +1,4 @@
+1) https://colab.research.google.com/drive/1Ynl3YSsRGMegEzOMmf2pjW8Ymrsp7-lY#scrollTo=xMTLlxOizIan
+2) https://github.com/nitsaick/kits19-challenge
+3) https://github.com/neheller/kits19/blob/master/starter_code/utils.py
+4) https://github.com/turkfuat/KiTS19-Hybird-V-Net-Model
